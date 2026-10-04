@@ -1,4 +1,4 @@
-# Mayra Nolasxo 
+# Mayra Nolasco 
  I am currently working on obtaining a Crime Analysis certificate and Associates degree. The GIS course is a requirement to obtain  both. GIS is an essential tool used by Crime Analyst in their day-to-day work. --- 
 ## COVID-19 Case Rates by Zip Code, New York, 2020
 ! This map depicts COVID-19 case density rates in New York by zip code. The map is color coated to provide the ranges of cases beginning with the lower range of cases between 26938.54-35224.44; this range is color coated a light yellow. As the COVID case numbers increase, a darker shade of yellow is given. The largest range of cases are between 50480.47-64422.22, this range is color coated a dark orange/brown color. Color coating the map visually assists in noticing the differences in case counts throughout New York.)(images/Layout2.png) 
