@@ -13,17 +13,17 @@ This map depicts COVID-19 case density rates in New York by zip code. This map i
 
  **Question:** The map answers which New York City zip code experienced the highest density of COVID-19 case rates by 100,000 resident. 
 
-**Data:** [COVID-19 Case Rates by Zip Code, New York, 2020, published by NYC Department of Health and Mental Hygiene in 2020, U.S. Census Bureau, open data portal.] 
+**Data:** COVID-19 Case Rates by Zip Code, New York, 2020, published by NYC Department of Health and Mental Hygiene in 2020, U.S. Census Bureau, open data portal. 
 
-**Method:** [In ArcGIS Pro, I searched data in the search box by selecting the COVID-19_ZCTA layer, then added the layer to the map. I then explored the Attribute table through the contents pane. I then performed attributes join using the zip code to search health information in the map. I then symbolized the layer design using colors to represent case rates. Finally, I exported the information to ArcGIS Online to create a swipe map.] 
+**Method:** In ArcGIS Pro, I searched data in the search box by selecting the COVID-19_ZCTA layer, then added the layer to the map. I then explored the Attribute table through the contents pane. I then performed attributes join using the zip code to search health information in the map. I then symbolized the layer design using colors to represent case rates. Finally, I exported the information to ArcGIS Online to create a swipe map. 
 
-**A design choice I made and why:** [The color scheme used was a sequential ramp. A sequential ramp runs light to dark, making it easy for readers to determine that the lighter color means less/lower and the dark means more, without having to explain it.]
+**A design choice I made and why:** The color scheme used was a sequential ramp. A sequential ramp runs light to dark, making it easy for readers to determine that the lighter color means less/lower and the dark means more, without having to explain it.
 
- **A limitation of this map:** [A possible limitation to this map may be that it does not account for a margin of error or lack of representation of people who never tested for COVID or had no access to health care services. The map only represents reported cases.]
+ **A limitation of this map:** A possible limitation to this map may be that it does not account for a margin of error or lack of representation of people who never tested for COVID or had no access to health care services. The map only represents reported cases.
 
  --- --
 
- ## [Atlanta Housing] 
+ ## Atlanta Housing 
 The map displays the housing grades given to different cities in Altlanta. Cities were graded from A-D, making “A” a more desirable, sought out neighborhoods. The grading can help identify if there’s a correlation between lower graded areas and poverty in comparison to those cities with a higher grade level. The information can assist in determining which areas may need to address housing resources and determine whether discriminatory processes are still affecting the communities with the lower grades.
 
 ![Atlanta Housing](Map2.png)
@@ -44,7 +44,7 @@ The map displays the housing grades given to different cities in Altlanta. Citie
 
 ## Where this is going 
 
-[By the end of this term I would like to be well versed in using ArcGIS Pro and be able to create accurate maps to add to my portfolio. I struggled in getting the maps I wanted to convert to PNG. A tried several different techniques, yet I was unable to receive the results I wanted. Additionally, I noticed a typo on the Layout2 image. Even after correcting it, saving it and exporting it, I received the same results. The verbiage should be Made by not May by. I’m hoping that I will be able to produce products acceptable for presentation to law enforcement agencies, so that they can be used as tools to address crime trends and to allow law enforcement to deploy the appropriate resources needed in different neighborhoods. I would like to provide excellent tools to provide a safe environment for the public.]
+By the end of this term I would like to be well versed in using ArcGIS Pro and be able to create accurate maps to add to my portfolio. I struggled in getting the maps I wanted to convert to PNG. A tried several different techniques, yet I was unable to receive the results I wanted. Additionally, I noticed a typo on the Layout2 image. Even after correcting it, saving it and exporting it, I received the same results. The verbiage should be Made by not May by. I’m hoping that I will be able to produce products acceptable for presentation to law enforcement agencies, so that they can be used as tools to address crime trends and to allow law enforcement to deploy the appropriate resources needed in different neighborhoods. I would like to provide excellent tools to provide a safe environment for the public.
 
 
 
