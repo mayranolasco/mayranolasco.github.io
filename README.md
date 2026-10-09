@@ -5,7 +5,9 @@
  --- 
 
 ## [COVID-19 Case Rates by Zip Code, New York, 2020]
-![This map depicts COVID-19 case density rates in New York by zip code. This map is a choropleth map which means that the map is color coated to depict different ranges of COVID-19 cases beginning with the lower range, which include cases between 26938.54-35224.44; this range is color coated a light yellow. As the COVID case numbers increase, a darker shade of yellow is given. The largest range of cases are between 50480.47-64422.22; this range is color coated a dark orange/brown color. Color coating the map visually assists in noticing the differences in case counts throughout New York. The ranges referred to as classes were put into five categories.](images/Layout2.png) 
+This map depicts COVID-19 case density rates in New York by zip code. This map is a choropleth map which means that the map is color coated to depict different ranges of COVID-19 cases beginning with the lower range, which include cases between 26938.54-35224.44; this range is color coated a light yellow. As the COVID case numbers increase, a darker shade of yellow is given. The largest range of cases are between 50480.47-64422.22; this range is color coated a dark orange/brown color. Color coating the map visually assists in noticing the differences in case counts throughout New York. The ranges referred to as classes were put into five categories.
+
+![COVID-19 case rates by Zip code](images/Layout2.png) 
 
 *Interactive version, live as of [September 2026]: [https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=dbff8f374f0f4044b55f499244ce77f3] * 
 
