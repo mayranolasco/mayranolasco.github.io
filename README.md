@@ -7,7 +7,7 @@
 ## [COVID-19 Case Rates by Zip Code, New York, 2020]
 ![This map depicts COVID-19 case density rates in New York by zip code. This map is a choropleth map which means that the map is color coated to depict different ranges of COVID-19 cases beginning with the lower range, which include cases between 26938.54-35224.44; this range is color coated a light yellow. As the COVID case numbers increase, a darker shade of yellow is given. The largest range of cases are between 50480.47-64422.22; this range is color coated a dark orange/brown color. Color coating the map visually assists in noticing the differences in case counts throughout New York. The ranges referred to as classes were put into 5 categories.](images/Layout2.png) 
 
-*Interactive version, live as of [September 2026]: [https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=dbff8f374f0f4044b55f499244ce77f3]* 
+*Interactive version, live as of [September 2026]: [https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=dbff8f374f0f4044b55f499244ce77f3 ]* 
 
  **Question:** [The map answers which New York City zip code experienced the highest density of COVID-19 case rates by 100,000 resident.] 
 
@@ -22,7 +22,7 @@
  --- --
 
  ## [Atlanta Housing] 
-![ The map displays the housing grades given to different cities in Altlanta. Cities were graded from A-D, making “A” a more desirable, sought out neighborhoods. The grading can help identify if there’s a correlation between lower graded areas and poverty in comparison to those cities with a higher grade level. The information can assist in determining which areas may need to address housing resources and determine whether discriminatory processes are still affecting the communities with the lower grades.](images/Map.png) (images/Map2.png)
+![ The map displays the housing grades given to different cities in Altlanta. Cities were graded from A-D, making “A” a more desirable, sought out neighborhoods. The grading can help identify if there’s a correlation between lower graded areas and poverty in comparison to those cities with a higher grade level. The information can assist in determining which areas may need to address housing resources and determine whether discriminatory processes are still affecting the communities with the lower grades.](images/Map.png)
 **Question:** The map answers whether the lower graded cities, C and D are poverty stricken and if these neighborhoods are vacant/unpopulated. It also answers if the resources in these areas are appropriate.
 **Data:** Redlining_Atlanta, 2024 Owner Households, 2024 Households W/Internet Broadbands. Atlanta Regional Commission (ARC). Published by the U.S Census Bureau via ArcGIS pro contents pane.
 
