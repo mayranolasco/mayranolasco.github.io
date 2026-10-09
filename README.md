@@ -1,4 +1,4 @@
-# [Mayra Nolasco]
+# Mayra Nolasco
 
  [I am currently working on obtaining a Crime Analysis certificate and Associate's degree. The GIS course is a requirement to obtain      both the certificate and the Associates degree. GIS is an essential tool used by Crime Analyst in their day-to-day work, I'm hoping to be able to become well verse in creating maps.]
 
