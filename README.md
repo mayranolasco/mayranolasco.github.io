@@ -22,7 +22,7 @@
  --- --
 
  ## [Atlanta Housing] 
-![ The map displays the housing grades given to different cities in Altlanta. Cities were graded from A-D, making “A” a more desirable, sought out neighborhoods. The grading can help identify if there’s a correlation between lower graded areas and poverty in comparison to those cities with a higher grade level. The information can assist in determining which areas may need to address housing resources and determine whether discriminatory processes are still affecting the communities with the lower grades.](Map.png)(Map2.png)
+![ The map displays the housing grades given to different cities in Altlanta. Cities were graded from A-D, making “A” a more desirable, sought out neighborhoods. The grading can help identify if there’s a correlation between lower graded areas and poverty in comparison to those cities with a higher grade level. The information can assist in determining which areas may need to address housing resources and determine whether discriminatory processes are still affecting the communities with the lower grades.](Map2.png)
 **Question:** The map answers whether the lower graded cities, C and D are poverty stricken and if these neighborhoods are vacant/unpopulated. It also answers if the resources in these areas are appropriate.
 **Data:** Redlining_Atlanta, 2024 Owner Households, 2024 Households W/Internet Broadbands. Atlanta Regional Commission (ARC). Published by the U.S Census Bureau via ArcGIS pro contents pane.
 
