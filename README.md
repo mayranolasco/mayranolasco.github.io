@@ -35,8 +35,8 @@
 --- 
 
 ## Data sources 
-- [COVID-19 Case Rates by Zip Code, New York, 2020, U.S. Census, Census COVID-19 Data Hub - 2024 American Community Survey 1 Year Data Regional Commission, Census COVID-19 Data Hub]
-- [2024 American Community Survey 1 Year Data Regional Commission (ARC). Published by the U.S Census Bureau, American Community Survey 1-Year Data (2005-2024)] 
+- [COVID-19 Case Rates by Zip Code, New York, 2020, U.S. Census, Census COVID-19 Data Hub - 2024 American Community Survey 1 Year Data Regional Commission, https://covid19-uscensus.hub.arcgis.com/]
+- [2024 American Community Survey 1 Year Data Regional Commission (ARC). Published by the U.S Census Bureau, https://www.census.gov/data/developers/data-sets/acs-1year.html ] 
 
 ## Where this is going 
 
