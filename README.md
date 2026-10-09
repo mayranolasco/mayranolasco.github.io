@@ -43,7 +43,7 @@ The map displays the housing grades given to different cities in Altlanta. Citie
 - COVID-19 Case Rates by Zip Code, New York, 2020, U.S. Census, Census COVID-19 Data Hub - 2024 American Community Survey 1 Year Data Regional Commission, https://covid19-uscensus.hub.arcgis.com/
 - 2024 American Community Survey 1 Year Data Regional Commission (ARC). Published by the U.S Census Bureau, https://www.census.gov/data/developers/data-sets/acs-1year.html 
 
-## Where this is going 
+## GIS Goals 
 
 By the end of this term I would like to be well versed in using ArcGIS Pro and be able to create accurate maps to add to my portfolio. I struggled in getting the maps I wanted to convert to PNG. A tried several different techniques, yet I was unable to receive the results I wanted. Additionally, I noticed a typo on the Layout2 image. Even after correcting it, saving it and exporting it, I received the same results. The verbiage should be Made by not May by. I’m hoping that I will be able to produce products acceptable for presentation to law enforcement agencies, so that they can be used as tools to address crime trends and to allow law enforcement to deploy the appropriate resources needed in different neighborhoods. I would like to provide excellent tools to provide a safe environment for the public.
 
