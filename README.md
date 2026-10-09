@@ -28,6 +28,7 @@ The map displays the housing grades given to different cities in Altlanta. Citie
 
 ![Atlanta Housing](Map2.png)
 **Question:** The map answers whether the lower graded cities, C and D are poverty stricken and if these neighborhoods are vacant/unpopulated. It also answers if the resources in these areas are appropriate.
+
 **Data:** Redlining_Atlanta, 2024 Owner Households, 2024 Households W/Internet Broadbands. Atlanta Regional Commission (ARC). Published by the U.S Census Bureau via ArcGIS pro contents pane.
 
  **Method:** The input features were obtained through the contents pane, by using the enriched Analysis tools. The variable selected on this map were 2024 HHS with Non Interned Access (ACS 5-YR), 2024 Total Vacant Housing Units (ACS 5-YR), 2024 Owner Households (ACS 5-YR), 2024 Median Year Structure Built (Total Housing Units) (ACS 5-Yr), 2026 Hispanic Population (Esri), 2024 Households with 1+ Persons w/Disability (ACS 5-Yr), 2024, Households Receiving Food Stamps/SNAP (ACS 5-Yr), and 2024 Population with Income Below Poverty Level (ACS 5-Yr). I then added the Enriched Atlanta Layer and added it the map in ArcGIS Pro. Once the layers were added, I was able to view the data in the Attribute Table.
