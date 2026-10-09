@@ -9,7 +9,7 @@ This map depicts COVID-19 case density rates in New York by zip code. This map i
 
 ![COVID-19 case rates by Zip code](images/Layout2.png) 
 
-*Interactive version, live as of September 2026: [https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=dbff8f374f0f4044b55f499244ce77f3] * 
+*Interactive version, live as of September 2026: https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=dbff8f374f0f4044b55f499244ce77f3 * 
 
  **Question:** The map answers which New York City zip code experienced the highest density of COVID-19 case rates by 100,000 resident. 
 
