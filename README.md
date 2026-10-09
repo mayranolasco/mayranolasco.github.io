@@ -32,7 +32,7 @@ The map displays the housing grades given to different cities in Altlanta. Citie
 
  **Method:** The input features were obtained through the contents pane, by using the enriched Analysis tools. The variable selected on this map were 2024 HHS with Non Interned Access (ACS 5-YR), 2024 Total Vacant Housing Units (ACS 5-YR), 2024 Owner Households (ACS 5-YR), 2024 Median Year Structure Built (Total Housing Units) (ACS 5-Yr), 2026 Hispanic Population (Esri), 2024 Households with 1+ Persons w/Disability (ACS 5-Yr), 2024, Households Receiving Food Stamps/SNAP (ACS 5-Yr), and 2024 Population with Income Below Poverty Level (ACS 5-Yr). I then added the Enriched Atlanta Layer and added it the map in ArcGIS Pro. Once the layers were added, I was able to view the data in the Attribute Table.
 
- **A design choice I made and why:** The colors selected for the grades makes it easy for the users to determine at first glance what areas are more desirable. Green generally means go or good, as to red means stop or of higher risk. Additionally, the letter grades are also self-explanatory
+ **A design choice I made and why:** The colors selected for the grades makes it easy for the users to determine at first glance what areas are more desirable. Green generally means go or good, as to red means stop or of higher risk. Additionally, the letter grades are also self-explanatory.
 
 **A limitation of this map:** A limitation of this map: The information does not account for the unhoused or those in the country illegally that may not participate or respond to census or government questionnaires. 
 
